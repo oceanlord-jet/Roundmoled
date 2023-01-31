@@ -384,7 +384,7 @@ homesp
 
 .theme-dark .container-2cd8Mz
 {
-    border-radius: 20px;
+    border-radius: 25px;
     margin-top:10px;
     margin-bottom:10px;
     margin-right: 10px;
@@ -411,6 +411,7 @@ homesp
     margin-right: 10px;
     margin-top:10px;
     margin-bottom:10px;
+    background-color: var(--dark-primary);	
 }
 
 /* friends now playing home */
