@@ -1,6 +1,6 @@
 # roundmoled.theme.css
 
-### Rounded corners? YES! TRUE black mode? YES! 
+### Rounded corners? YES! 
 
 
 
@@ -13,6 +13,10 @@
 ```bat
 cd powercord/src/Powercord/themes && git clone https://github.com/Rayrsn/RoundNotmoled 
 ```
+
+> ### Installing for Vencord
+- Paste this into the themes tab 
+``` https://oceanlord-jet.github.io/Roundmoled/main.css ```
 
 
 
