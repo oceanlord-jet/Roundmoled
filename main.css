@@ -403,6 +403,7 @@ homesp
 :root .searchBar-6Kv8R2 .searchBarComponent-32dTOx{
     margin-top:5px;
     border-radius: 25px;
+    background-color: var(--dark-primary);
 }
 
 :root .theme-dark .container-2cd8Mz, .container-1a3EgQ, .applicationStore-1pNvnv{
